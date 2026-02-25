@@ -1,0 +1,5 @@
+{
+  "name": "ProfilePro AI",
+  "description": "Generate and edit professional LinkedIn profile photos using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
